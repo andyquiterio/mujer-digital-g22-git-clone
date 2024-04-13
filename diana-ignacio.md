@@ -1,5 +1,7 @@
 
-[![welday.jpg](https://i.postimg.cc/zB82dnQp/welday.jpg)](https://postimg.cc/06XCjJPJ)
+<p align="center">
+<a href='https://www.instagram.com/day.psd/' target='_blank'><img src='https://i.postimg.cc/zB82dnQp/welday.jpg' border='0' alt='welday'/></a>
+</p>
 
 
 
