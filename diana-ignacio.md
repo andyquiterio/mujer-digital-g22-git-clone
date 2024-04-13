@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&random=false&width=435&lines=Hola%2C+soy+Dian.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9wbHRjdzgyY3N5N3J0Z29qMGd1MDR4dDlucXd1a3RsOXpsaGhsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nVb46J1z12FtzOM/giphy.gif" width="300" />
+  
 
 **Contactame:**
 <p align="left">
