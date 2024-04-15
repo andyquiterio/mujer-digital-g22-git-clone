@@ -21,6 +21,28 @@ Me encanta el mar, mi lugar favorito para ver un atardecer es Puerto Escondido. 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9wbHRjdzgyY3N5N3J0Z29qMGd1MDR4dDlucXd1a3RsOXpsaGhsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nVb46J1z12FtzOM/giphy.gif" width="300" />
   </p>
 
+🎬 **Mi Pelicula favorita:** 
+
+<img src='https://m.media-amazon.com/images/I/61cLQ-SDQfL._AC_UF894,1000_QL80_.jpg' width="250" />
+ </p>
+
+📺 **Mi Serie favorita:**
+
+<img src='https://i.pinimg.com/736x/d5/c1/a9/d5c1a97c6ec6770807e4fdf4d002330a.jpg' width="250" />
+ </p>
+
+📚 **Mi Libro favorito:**
+
+<img src='https://m.media-amazon.com/images/I/61F7Ri8NgEL._AC_UF1000,1000_QL80_.jpg' width="250" />
+ </p>
+
+💥 **Mi Anime favorito:**
+
+<img src='https://i.etsystatic.com/40868067/r/il/04e5df/4580541648/il_fullxfull.4580541648_fyns.jpg' width="250" />
+ </p>
+
+
+
 **Contactame:**
 <p align="center">
   <a href="https://www.instagram.com/day.psd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
