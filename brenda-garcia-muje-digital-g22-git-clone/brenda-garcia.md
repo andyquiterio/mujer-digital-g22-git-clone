@@ -1,7 +1,8 @@
 <img src="https://media2.giphy.com/media/9RmTjLJVakEfDd9CIH/giphy.gif?cid=a267dfa3l15panbxg9worir74sunmdqzdvwb7qiu1xwilo8l&rid=giphy.gif&ct=s" align-item="center" width=100>
 <h1 align="center">
-<img src="https://media.giphy.com/media/jqxCTPDlYhfuHGIJQ5/giphy.gif" width="50"> Hola, soy Brenda Garcia <img src="https://media.giphy.com/media/jqxCTPDlYhfuHGIJQ5/giphy.gif" width="50"></h1>
-<img src="https://64.media.tumblr.com/e7cb6bbdead5e0e38406590b7c32691f/ba03808b4fe5c833-97/s1280x1920/e4dedc3c8f8400595ad1f21b8cb6f8be727178c0.gifv" height="150" width="650">
+<img src="https://media.giphy.com/media/jqxCTPDlYhfuHGIJQ5/giphy.gif" width="50" > Hola, soy Brenda Garcia <img src="https://media.giphy.com/media/jqxCTPDlYhfuHGIJQ5/giphy.gif" width="50"></h1>
+
+<img src="https://64.media.tumblr.com/e7cb6bbdead5e0e38406590b7c32691f/ba03808b4fe5c833-97/s1280x1920/e4dedc3c8f8400595ad1f21b8cb6f8be727178c0.gifv" height="150" width="650" align="center">
 
 <div align=center style="display:flex; justify-content: space-around">
   <a href="https://www.youtube.com/channel/UCaDwCEV6J3vdsL44t3L_WWw"><img alt="Instagram" src="https://img.shields.io/static/v1?style=for-the-badge&message=My Website&color=55B500&logo=airplayvideo&logoColor=FFFFFF&label=" /></a>
