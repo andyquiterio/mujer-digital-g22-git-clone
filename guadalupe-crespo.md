@@ -2,7 +2,7 @@
 	<a href="">
 		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
 	</a>
-	Hola, Bienvenidos a mi perfil 
+	Hola, Bienvenid@s a mi perfil 
 <a href="">
 		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
 	</a>
