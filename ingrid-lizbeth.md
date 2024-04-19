@@ -40,3 +40,43 @@ Tech Stack
 	</a>
 
 </h2>
+
+<div>
+	<img align="left" src="https://i.pinimg.com/564x/a6/df/a4/a6dfa40eff3811894cbed3ba741a5a7d.jpg" width="300"/>
+	<div align=center style="display:flex; justify-content: center">
+		<ul>
+		<li><details align="center">
+			<summary>My Tools and Software 🛠️ </summary>
+			<br>
+				<p align="center">
+					<a href="https://skillicons.dev">
+						<img src="https://skillicons.dev/icons?i=git,github,gitlab,markdown,vscode,figma, perline=5" width=210/>
+					</a>
+				</p>
+		</details></li>
+		<li>
+			<details align="center">
+			<summary>Frontend Technologies 🎨</summary>
+			<br>
+				<p align="center">
+				<a href="https://skillicons.dev">
+					<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,=5" width=210/>
+				</a>
+				</p>
+			</details>
+		</li>
+		<li>
+			<details align="center">
+			<summary>Backend Technologies 💻</summary>
+			<br>
+				<p align="center">
+				<a href="https://skillicons.dev">
+					<img src="https://skillicons.dev/icons?i=java,py,mysql,postman&perline=5" width=210/>
+				</a>
+				</p>
+			</details>
+		</li>
+		</ul>
+	</div>
+</div>
+<img src="https://i.pinimg.com/originals/39/1a/ba/391aba42a0056752d0e78cdf423017aa.gif" width="100%" height="150">
