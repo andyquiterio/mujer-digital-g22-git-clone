@@ -33,5 +33,3 @@ About me
 <p>
 27 year old woman💁‍♀️, I am currently in the Mujer Digital program, learning java, javascrip and python, giving my all to learn and make the most of this opportunity. In addition to being a web development apprentice💡, I love spending time with my family👩‍👦, cooking🍳, I love watching series and movies📺 but above all I love learning new things, I am never left with doubts.
 </p>
-
-</div>
